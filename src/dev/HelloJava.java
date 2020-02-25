@@ -4,7 +4,6 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//edit1-edit2
 		//edit3-edit4
 	}
 
